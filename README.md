@@ -1,6 +1,6 @@
 # Thomas Casale
 
-Bienvenue sur mon profil GitHub ! Je suis développeur passionné par [mentionne tes spécialités : web, mobile, data science, etc.]. Toujours en quête d'innovation, je travaille sur des projets pour [explique ta motivation ou ton but].
+Welcome on my Github profile
 
 ---
 
