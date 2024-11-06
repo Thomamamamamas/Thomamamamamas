@@ -33,7 +33,7 @@ Bienvenue sur mon profil GitHub ! Je suis développeur passionné par [mentionne
 ---
 
 ## 📈 My GitHub Stats
-![Tes Stats GitHub](https://github-readme-stats.vercel.app/api?username=ton_nom_utilisateur&show_icons=true&theme=dark&count_private=true)
-![Langues les plus utilisées](https://github-readme-stats.vercel.app/api/top-langs/?username=ton_nom_utilisateur&layout=compact&theme=dark)
+![Tes Stats GitHub](https://github-readme-stats.vercel.app/api?username=Thomamamamamas&show_icons=true&theme=dark&count_private=true)
+![Langues les plus utilisées](https://github-readme-stats.vercel.app/api/top-langs/?username=Thomamamamamas&layout=compact&theme=dark)
 
 ---
