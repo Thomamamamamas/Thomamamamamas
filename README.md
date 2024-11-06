@@ -26,7 +26,9 @@ Bienvenue sur mon profil GitHub ! Je suis développeur passionné par [mentionne
 ---
 
 ## 🌐 My websites
-![Geo Lead](./images/geolead.png)(https://geoleadfinder.com)
+<a href="https://geoleadfinder.com">
+  <img src="./images/geolead.png" alt="Geo Lead" width="300">
+</a>
 
 ---
 
